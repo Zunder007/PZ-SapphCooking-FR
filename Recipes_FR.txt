@@ -437,7 +437,7 @@ Recipes_FR = {
 	Recipe_Reclaim_Chef_Knife_from_Spear2 = "Récupérer le couteau de chef depuis la lance",
 	Recipe_Reclaim_Chef_Knife_from_Spear3 = "Récupérer le couteau de chef depuis la lance",
 	Recipe_Attach_Spork_to_Spear = "Attacher la cuillère-fourchette à la lance",
-	Recipe_Reclaim_Spork_from_Spear = "Récupérer la cuillère-fourchette depuis la lance"
+	Recipe_Reclaim_Spork_from_Spear = "Récupérer la cuillère-fourchette depuis la lance",
 
 	Recipe_Make_2_Bowls_of_Instant_Noodles = "Préparer 2 bols de nouilles instantanées",
 	Recipe_Open_Instant_Noodles = "Ouvrir le paquet de nouilles instantanées",
