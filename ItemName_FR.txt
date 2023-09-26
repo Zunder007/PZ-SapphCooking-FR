@@ -541,7 +541,7 @@ ItemName_FR = {
 	ItemName_SapphCooking.SpearChefKnife1 = "Lance avec Couteau de Chef",
  	ItemName_SapphCooking.SpearChefKnife2 = "Lance avec Couteau de Chef",
  	ItemName_SapphCooking.SpearChefKnife3 = "Lance avec Couteau de Chef",
-	ItemName_SapphCooking.SpearSpork = "Lance avec Cuillère-fourchette"
+	ItemName_SapphCooking.SpearSpork = "Lance avec Cuillère-fourchette",
 
 	ItemName_SapphCooking.Saucepan_InstantNoodlesEvolved = "Nouilles instantanées",
 	ItemName_SapphCooking.NoodleSachet_Beef = "Sachet d'arôme de boeuf",
