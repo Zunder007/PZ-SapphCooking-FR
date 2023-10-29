@@ -1,4 +1,4 @@
-Recipes_FR = {
+Recipe_FR = {
 	Recipe_Fry_Small_Bird_Meat = "Frire les petites volailles",
 	Recipe_Make_Cheese_Sandwich = "Préparer des sandwichs au fromage",
 	Recipe_Put_Cheese_Sandwich_in_Frying_Pan = "Placer le sandwich au fromage dans la poêle à frire",
