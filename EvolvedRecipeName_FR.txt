@@ -23,7 +23,8 @@ EvolvedRecipeName_FR = {
 	EvolvedRecipeName_SapphCooking.StrawberryMilk = "Lait à la fraise",
 	EvolvedRecipeName_SapphCooking.EnergyDrink = "Boisson énergisante",
 
-	EvolvedRecipeName_SapphCooking.IcenCubes = "Glace"
+	EvolvedRecipeName_SapphCooking.IcenCubes = "Glace",
+	EvolvedRecipeName_SapphCooking.IceCubes = "Glace",
 	EvolvedRecipeName_SapphCooking.VodkaFull = "Vodka",
 	EvolvedRecipeName_SapphCooking.LiqueurBottle = "Liqueur",
 	EvolvedRecipeName_SapphCooking.SakeFull = "Saké",
@@ -36,4 +37,18 @@ EvolvedRecipeName_FR = {
 	EvolvedRecipeName_SapphCooking.CoffeePacket = "Café",
 	EvolvedRecipeName_SapphCooking.Rice = "Riz",
 
+	EvolvedRecipeName_SapphCooking.Bread_Egginhole = "Tartine à l'oeuf",
+	EvolvedRecipeName_SapphCooking.ButtermilkBottle = "Babeurre",
+	EvolvedRecipeName_SapphCooking.CachacaWaterFull = "Cachaça",
+	EvolvedRecipeName_SapphCooking.Jar_Kimchi_Fermented = "Bocal de kimchi fermenté",
+	EvolvedRecipeName_SapphCooking.Jar_Kimchi_Unfermented = "Bocal de kimchi",
+	EvolvedRecipeName_SapphCooking.MisoPaste = "Pâte de miso",
+	EvolvedRecipeName_SapphCooking.MonosodiumGlutamate_MSG = "Glutamate de sodium (GMS)",
+	EvolvedRecipeName_SapphCooking.Mustard_Sachet = "Moutarde",
+	EvolvedRecipeName_SapphCooking.PeanutButter_Sachet = "Beurre de cacahuète",
+	EvolvedRecipeName_SapphCooking.PipingBag_Icing = "Poche à douille avec du glaçage",
+	EvolvedRecipeName_SapphCooking.SlicedChickenBatter = "Pilon de poulet frit",
+	EvolvedRecipeName_SapphCooking.SoySauce_Sachet = "Sauce soja",
+	EvolvedRecipeName_SapphCooking.Tomato_Sachet = "Ketchup",
+	EvolvedRecipeName_SapphCooking.Vermouth = "Vin aromatisé (Vermouth)",
 }
