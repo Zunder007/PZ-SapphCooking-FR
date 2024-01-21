@@ -13,4 +13,15 @@ Tooltip_FR = {
 	Tooltip_Stock = "Peut être utilisé pour le stockage, les soupes ou les ragoûts.",
 	Tooltip_IceCubes = "Quand remplit avec de l'eau, peut faire des glaçons si placé près d'un réfrigérateur électrifié.",
 	Tooltip_SausagesMagazine = "Enseigne l'art de la boucherie et comment faire des saucisses."	
-} 	
+
+	Tooltip_Fortune1 = "'L'expérience est le meilleur professeur de la vie.'",
+	Tooltip_Fortune2 = "'Vivez cette journée comme si c'était la dernière.'",
+	Tooltip_Fortune3 = "'Il n'y a pas de regrets dans la vie. Juste des leçons.'",
+	Tooltip_Fortune4 = "'Laissez-vous aller à rêver de nouveau.'",
+	Tooltip_Fortune5 = "'Transformer vos blessures en sagesse.'",
+	Tooltip_Fortune6 = "'Regardez tout le chemin que vous avez parcouru.'",
+	Tooltip_Fortune7 = "'Méfiez-vous du chien gobelin.'",
+	Tooltip_Fortune8 = "'A quoi ça sert d'être si vous n'êtes pas vous-même ?'",
+	Tooltip_Fortune9 = "'A quoi servent les ailes, sans le courage de voler.'",
+	Tooltip_Fortune10 = "'Petit à petit, on voyage loin.'",
+}
