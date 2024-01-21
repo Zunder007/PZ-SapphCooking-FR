@@ -99,4 +99,17 @@ ContextMenu_FR = {
 	ContextMenu_FoodType_Gin = "Ajouter",
 
 
+	ContextMenu_EvolvedRecipe_SapphCooking.BorschtEvolved = "Ajouter Borscht",
+	ContextMenu_EvolvedRecipe_SapphCooking.BlenderShake = "Ajouter Milkshake",
+	ContextMenu_EvolvedRecipe_SapphCooking.BlenderSmoothie = "Ajouter Smoothie",
+	ContextMenu_EvolvedRecipe_SapphCooking.BlenderPuree = "Ajouter Purée",
+	ContextMenu_EvolvedRecipe_SapphCooking.BlenderJuice = "Ajouter Jus",
+	ContextMenu_EvolvedRecipe_SapphCooking.WokRoastVeg = "Ajouter Roti",
+	ContextMenu_EvolvedRecipe_SapphCooking.FrenchToastEvolved = "Ajouter Pain perdu",
+	ContextMenu_EvolvedRecipe_SapphCooking.WokCacioePepe = "Ajouter Cacio e Pepe",
+	ContextMenu_EvolvedRecipe_SapphCooking.FlatbreadEvolved = "Ajouter Pâte à pain",
+	ContextMenu_EvolvedRecipe_SapphCooking.CrepesEvolved = "Ajouter Crêpes",
+	ContextMenu_EvolvedRecipe_SapphCooking.CocktailCupEvolved = "Verser boisson",
+	ContextMenu_EvolvedRecipe_SapphCooking.LowballCupEvolved = "Verser boisson",
+	ContextMenu_EvolvedRecipe_SapphCooking.BowlSorbet = "Ajouter Sorbet",
 } 
