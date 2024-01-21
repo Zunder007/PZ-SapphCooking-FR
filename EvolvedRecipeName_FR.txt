@@ -51,4 +51,22 @@ EvolvedRecipeName_FR = {
 	EvolvedRecipeName_SapphCooking.SoySauce_Sachet = "Sauce soja",
 	EvolvedRecipeName_SapphCooking.Tomato_Sachet = "Ketchup",
 	EvolvedRecipeName_SapphCooking.Vermouth = "Vin aromatisé (Vermouth)",
+
+	EvolvedRecipeName_SapphCooking.MeltedChocolate = "Chocolat fondu",
+	EvolvedRecipeName_SapphCooking.Grape = "Raisin",
+	EvolvedRecipeName_SapphCooking.Strawberry = "Fraise",
+	EvolvedRecipeName_SapphCooking.Watermelon = "Pastèque",
+	EvolvedRecipeName_SapphCooking.Lemon = "Citron",
+	EvolvedRecipeName_SapphCooking.Apple = "Pomme",
+	EvolvedRecipeName_SapphCooking.Pineapple = "Ananas",
+
+	EvolvedRecipeName_SapphCooking.BottleofAppleJuice = "Bouteille aromatisée à la pomme",
+	EvolvedRecipeName_SapphCooking.BottleofGrapeJuice = "Bouteille aromatisée au raisin",
+	EvolvedRecipeName_SapphCooking.BottleofLemonJuice = "Bouteille aromatisée au citron",
+	EvolvedRecipeName_SapphCooking.BottleofOrangeJuice = "Bouteille aromatisée à l'orange",
+	EvolvedRecipeName_SapphCooking.BottleofPeachJuice = "Bouteille aromatisée à la pêche",
+	EvolvedRecipeName_SapphCooking.BottleofPineappleJuice = "Bouteille aromatisée à l'ananas",
+	EvolvedRecipeName_SapphCooking.BottleofStrawberryJuice = "Bouteille aromatisée à la fraise",
+	EvolvedRecipeName_SapphCooking.BottleofWatermelonJuice = "Bouteille aromatisée à la pastèque",
+	EvolvedRecipeName_SapphCooking.SaucepanwithMeltedChocolate = "Casserole de chocolat fondu",
 }
