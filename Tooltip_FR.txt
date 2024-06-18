@@ -24,4 +24,6 @@ Tooltip_FR = {
 	Tooltip_Fortune8 = "'A quoi ça sert d'être si vous n'êtes pas vous-même ?'",
 	Tooltip_Fortune9 = "'A quoi servent les ailes, sans le courage de voler.'",
 	Tooltip_Fortune10 = "'Petit à petit, on voyage loin.'",
+
+	Tooltip_LunarNewYear = "Habituellement consommé pendant le Nouvel An lunaire, si tel est le cas, bonne année!",
 }
